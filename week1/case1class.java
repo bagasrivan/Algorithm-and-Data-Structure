@@ -1,6 +1,6 @@
-package Praktikum1;
+package week1;
 
-public class Case1Class {
+public class case1class {
     private int koin;
     public int saldo = 0;
 
