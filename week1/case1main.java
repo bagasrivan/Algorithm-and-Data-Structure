@@ -1,8 +1,8 @@
-package Praktikum1;
+package week1;
 
 import java.util.*;
 
-public class Case1Interface {
+public class case1main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         Case1Class tabungan = new Case1Class();
