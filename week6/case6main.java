@@ -1,10 +1,10 @@
-package Praktikum6;
+package week6;
 
 import java.util.*;
 
-public class Case6Interface {
+public class case6main {
     public static void main(String[] args) {
-        Case6Class groceries = new Case6Class();
+        case6class groceries = new case6class();
         Queue<String> queue = new LinkedList<>();
 
         do {
