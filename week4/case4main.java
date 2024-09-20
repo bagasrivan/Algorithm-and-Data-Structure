@@ -1,6 +1,6 @@
-package Praktikum4;
+package week4;
 
-public class Case4Interface {
+public class case4main {
     public static void main(String[] args) {
         Case4Class quicksort = new Case4Class();
         
