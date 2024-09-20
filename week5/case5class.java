@@ -1,8 +1,8 @@
-package Praktikum5;
+package week5;
 
 import java.util.*;
 
-public class Case5Class {
+public class case5class {
     private String name;
     private double price;
     private int chooseMenu, chooseOrder, chooseLoop, chooseRemove, chooseDelete;
