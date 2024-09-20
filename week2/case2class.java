@@ -1,8 +1,8 @@
-package Praktikum2;
+package week2;
 
 import java.util.*;
 
-public class Case2Class {
+public class case2class {
     private int n;
     private int choose;
     Scanner input = new Scanner(System.in);
