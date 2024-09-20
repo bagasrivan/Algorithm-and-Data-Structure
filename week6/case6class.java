@@ -1,8 +1,8 @@
-package Praktikum6;
+package week6;
 
 import java.util.*;
 
-public class Case6Class {
+public class case6class {
     Scanner input = new Scanner(System.in);
     private int chooseMainMenu, chooseGroceries;
     private int stock = 3;
