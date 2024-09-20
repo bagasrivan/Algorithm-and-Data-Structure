@@ -1,10 +1,10 @@
-package Praktikum2;
+package week2;
 
 import java.util.*;
 
-public class Case2Interface {
+public class case2main {
     public static void main(String[] args) {
-        Case2Class factorial = new Case2Class();
+        case2class factorial = new case2class();
 
         factorial.printMenu();
 
