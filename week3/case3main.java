@@ -1,10 +1,10 @@
-package Praktikum3;
+package week3;
 
 import java.util.*;
 
-public class Case3Interface {
+public class case3main {
     public static void main(String[] args) {
-        Case3Class sorting = new Case3Class();
+        case3class sorting = new case3class();
 
         sorting.printSizeArr();
         if (sorting.getN() == 0) {
