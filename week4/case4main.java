@@ -2,7 +2,7 @@ package week4;
 
 public class case4main {
     public static void main(String[] args) {
-        Case4Class quicksort = new Case4Class();
+        case4class quicksort = new case4class();
         
         do {
             quicksort.printMenu();
