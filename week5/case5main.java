@@ -1,12 +1,12 @@
-package Praktikum5;
+package week5;
 
 import java.util.*;
 
-public class Case5Interface {
+public class case5main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         LinkedList<Case5Class> cart = new LinkedList<>();
-        Case5Class wekidi = new Case5Class("null", 0);
+        case5class wekidi = new case5class("null", 0);
 
         Case5Class menu1 = new Case5Class("Chicken Winglet", 49.900);
         Case5Class menu2 = new Case5Class("Chicken Strips", 24.900);
