@@ -1,8 +1,8 @@
-package Praktikum3;
+package week3;
 
 import java.util.Scanner;
 
-public class Case3Class {
+public class case3class {
     Scanner inputArr = new Scanner(System.in);
     private int n, find, loop;
     int[] arr;
